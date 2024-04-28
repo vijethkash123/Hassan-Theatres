@@ -1,0 +1,23 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="6dp"
+    android:background="#fff">
+
+    <ListView
+        android:id="@+id/contact"
+        android:layout_height="368dp"
+        android:layout_width="match_parent"
+        android:padding="12dp">
+    </ListView>
+
+    <ImageView
+        android:layout_width="74dp"
+        android:layout_height="74dp"
+        android:src="@mipmap/ic_launcher"
+        android:layout_marginTop="76dp"
+        android:layout_marginLeft="280dp"
+        android:id="@+id/cpn"/>
+
+</LinearLayout>

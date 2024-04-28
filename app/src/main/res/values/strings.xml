@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Hassan theatres</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Rate app in Playstore ☺</string>
+    <string name="mail_icon">&#xf0e0;</string>
+    <string name="share">&#xf1e0;</string>
+    <string name="movie_icon">&#xf03d;</string>
+    <string name="marker_icon">&#xf041;</string>
+    <string name="phone_icon">&#xf064;</string>
+    <string name="you">&#xf167;</string>
+    <string name="event">&#xf2a3;</string>
+<string name="ping">Ping me : vijethkashyap035@gmail.com
+    ♥Instagram: @confusedbiker3</string>
+</resources>
